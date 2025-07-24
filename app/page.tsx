@@ -266,7 +266,7 @@ export default function LandingPage() {
             <MessageCircle className="h-6 w-6 text-amber-400" />
             <span className="text-lg font-semibold text-white">Gov-messaging</span>
           </div>
-          <p className="text-white/60">© 2024 Gov-messaging. All rights reserved.</p>
+          <p className="text-white/60">© 2025 Gov-messaging. All rights reserved.</p>
         </div>
       </footer>
 
