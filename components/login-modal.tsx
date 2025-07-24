@@ -149,7 +149,7 @@ export default function LoginModal({ isOpen, onClose, onLoginSuccess }: LoginMod
               </Button>
             </form>
             <div className="text-center text-sm text-white/60">
-              <p>Admin credentials: username: admin, password: admin</p>
+              <p>-</p>
             </div>
           </TabsContent>
 
